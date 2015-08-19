@@ -1,2 +1,2 @@
-# R-Assigmnet2
+# R-Assignment
 Coursera assignment 2
